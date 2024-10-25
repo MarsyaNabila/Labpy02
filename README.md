@@ -85,6 +85,13 @@ Jalankan file tersebut menggunakan
 
 <img width="595" alt="Screenshot 2024-10-25 174158" src="https://github.com/user-attachments/assets/c27eaf3c-c54f-4de2-948d-8a58c84f41ba">
 
+# Penjelasan
+
+- Tugas UTS, dan UAS dimasukkan oleh pengguna sebagai input dengan float.
+- Nilai akhir dihitung menggunakan bobot tertentu (20% tugas, 40% UTS, 40% UAS).
+- Berdasarkan nilai akhir, program menentukan nilai huruf dan keterangan kelulusan.
+
+
 
 
 
