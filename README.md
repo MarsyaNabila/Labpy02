@@ -108,6 +108,14 @@ Program ini menerima input gaji, status keluarga (sudah berkeluarga atau belum),
 4. Jika pengguna memiliki rumah, program akan mencetak "Wajib bayar pajak rumah". Jika tidak memiliki rumah, akan mencetak "Tidak wajib bayar pajak rumah".
 
 ## Struktur Program 
+- Input
+- Gaji (int)
+- o
+- 0
+- 0
+- 0
+- 0
+
 
 
 
