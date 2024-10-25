@@ -96,6 +96,12 @@ Jalankan file tersebut menggunakan
 # Program Pengecekan Gaji, Status Keluarga, dan Kepemilikan Rumah
 
 ### Deskripsi
+Program ini menerima input gaji, status keluarga (sudah berkeluarga atau belum), dan status kepemilikan rumah dari pengguna, kemudian melakukan beberapa pengecekan sebagai berikut:
+1. Apakah gaji di atas UMR (Upah Minimum Regional).
+2. Jika gaji di atas UMR, program akan mengecek apakah pengguna sudah berkeluarga untuk menentukan kewajiban mengikuti asuransi dan menabung.
+3. Program juga mengecek apakah pengguna memiliki rumah untuk menentukan kewajiban membayar pajak rumah.
+
+
 
 
 
