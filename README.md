@@ -137,6 +137,12 @@ Tidak wajib bayar pajak rumah
 
 <img width="960" alt="Screenshot 2024-10-25 181619" src="https://github.com/user-attachments/assets/a04bcb90-b269-4a00-a748-60c06fae7baa">
 
+# gaji dibawah UMR
+
+
+
+
+
 
 
 
