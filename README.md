@@ -81,3 +81,10 @@ Pastikan Python telah terinstal di komputer Anda.
 Salin kode ke dalam file Python (misalnya, nilai_siswa.py).
 Jalankan file tersebut menggunakan
 
+# screenshot visual studio code
+
+<img width="595" alt="Screenshot 2024-10-25 174158" src="https://github.com/user-attachments/assets/c27eaf3c-c54f-4de2-948d-8a58c84f41ba">
+
+
+
+
