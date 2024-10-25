@@ -108,13 +108,21 @@ Program ini menerima input gaji, status keluarga (sudah berkeluarga atau belum),
 4. Jika pengguna memiliki rumah, program akan mencetak "Wajib bayar pajak rumah". Jika tidak memiliki rumah, akan mencetak "Tidak wajib bayar pajak rumah".
 
 ## Struktur Program 
-- Input
-- Gaji (int)
-- o
-- 0
-- 0
-- 0
-- 0
+- Input:
+   - Gaji (int)
+   - Status berkeluarga (Y/T)
+   - Status kepemilikan rumah (Y/T)
+- Output:
+  
+   - Apakah gaji sudah di atas UMR atau belum
+   - Kewajiban mengikuti asuransi jika sudah berkeluarga
+   - Kewajiban membayar pajak rumah jika punya rumah
+
+## Contoh Penggunaan
+
+# Gaji di atas UMR
+
+
 
 
 
