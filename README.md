@@ -127,11 +127,18 @@ Masukan gaji: 3000000
 Sudah berkeluarga? (Y/T): Y
 Punya rumah? (Y/T): Y
 
-Gaji sudah diatas UMR
+Gaji belum diatas UMR
 Wajib ikutin asuransi dan menabung untuk pensiun
 Tidak wajib bayar pajak rumah
 
 ```
+
+# Berikut hasil screenshot visual studio code
+
+<img width="960" alt="Screenshot 2024-10-25 181619" src="https://github.com/user-attachments/assets/a04bcb90-b269-4a00-a748-60c06fae7baa">
+
+
+
 
 
 
