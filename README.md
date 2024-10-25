@@ -122,6 +122,18 @@ Program ini menerima input gaji, status keluarga (sudah berkeluarga atau belum),
 
 # Gaji di atas UMR
 
+```
+Masukan gaji: 3000000
+Sudah berkeluarga? (Y/T): Y
+Punya rumah? (Y/T): Y
+
+Gaji sudah diatas UMR
+Wajib ikutin asuransi dan menabung untuk pensiun
+Tidak wajib bayar pajak rumah
+
+```
+
+
 
 
 
