@@ -159,6 +159,7 @@ Tidak wajib bayar pajak rumah
 
 - Pengecekan berkaluarga dan punya rumah: Variabel berkeluarga dan punya_rumah dicek dengan perbandingan input terhadap "Y menggunakan input().strip() == "Y", yang memastikan bahwa input diubah menjadi huruf kapital dan mengabaikan spasi yang tidak perlu.
 -  Program ini menggunakan if-else untuk menentukan pesan yang akan ditampilkan berdasarkan kondisi gaji status keluarga, dan status kepemilikan rumah.
+  
 
 
 
