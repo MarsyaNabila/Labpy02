@@ -123,11 +123,11 @@ Program ini menerima input gaji, status keluarga (sudah berkeluarga atau belum),
 # Gaji di atas UMR
 
 ```
-Masukan gaji: 3000000
+Masukan gaji: 500000000
 Sudah berkeluarga? (Y/T): Y
 Punya rumah? (Y/T): Y
 
-Gaji belum diatas UMR
+Gaji sudah diatas UMR
 Wajib ikutin asuransi dan menabung untuk pensiun
 Tidak wajib bayar pajak rumah
 
@@ -138,6 +138,28 @@ Tidak wajib bayar pajak rumah
 <img width="960" alt="Screenshot 2024-10-25 181619" src="https://github.com/user-attachments/assets/a04bcb90-b269-4a00-a748-60c06fae7baa">
 
 # gaji dibawah UMR
+
+```
+
+Masukan gaji: 3000000
+Sudah berkeluarga? (Y/T): Y
+Punya rumah? (Y/T): Y
+
+Gaji belum diatas UMR
+Wajib ikutin asuransi dan menabung untuk pensiun
+Tidak wajib bayar pajak rumah
+
+```
+
+# Berikut Hasil Screenshot Visual Code
+
+<img width="960" alt="Screenshot 2024-10-25 182420" src="https://github.com/user-attachments/assets/3262775b-27a0-47c4-bed4-8a682e0fca7e">
+
+# Penjelasan
+
+- Pengecekan berkaluarga dan punya rumah: Variabel berkeluarga dan punya_rumah dicek dengan perbandingan input terhadap "Y menggunakan input().strip() == "Y", yang memastikan bahwa input diubah menjadi huruf kapital dan mengabaikan spasi yang tidak perlu.
+-  Program ini menggunakan if-else untuk menentukan pesan yang akan ditampilkan berdasarkan kondisi gaji status keluarga, dan status kepemilikan rumah.
+
 
 
 
