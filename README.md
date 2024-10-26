@@ -79,7 +79,10 @@ print("Keterangan :",keterangan)
 Cara Menjalankan
 Pastikan Python telah terinstal di komputer Anda.
 Salin kode ke dalam file Python (misalnya, nilai_siswa.py).
-Jalankan file tersebut menggunakan
+Jalankan file tersebut menggunakan terminal atau command prompt.
+Gunakan perintah cd untuk berpindah ke direktori.
+Ketikkan perintah berikut untuk menjalankan file:
+Setelah Anda menjalankan perintah tersebut, program akan dieksekusi, dan Anda akan melihat output di terminal atau command prompt.
 
 ## screenshot visual studio code
 
