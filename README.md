@@ -174,7 +174,7 @@ Petunjuk:
 ● Gunakan if else dan operator ternary.
 ```
 
-```
+```PYTHON
 harga_reguler = 50000
 harga_vip = 100000
 
@@ -203,7 +203,7 @@ elif status_member == "tidak":
 else:
     print("Harga tidak dapat dihitung.")
 
-```
+````
   
 
 
