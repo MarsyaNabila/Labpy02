@@ -1,8 +1,8 @@
 ## Labpy02
-## Nama : MARSYA NABILA PUTRI
-## Nim : 312410338
-## Kelas : TI.24.A.4
-## Matkul : BAHASA PEMROGRAMAN 
+## NAMA : MARSYA NABILA PUTRI
+## NIM : 312410338
+## KELAS : TI.24.A.4
+## MATKUL : BAHASA PEMROGRAMAN 
 
 # LATIHAN 1
 # Program Perhitungan Nilai Akhir Siswa
