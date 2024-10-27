@@ -362,6 +362,21 @@ saya memasukan desision else ini Karna jika menjawab selain fungsi operator ini 
 
 dan ini hasil program tersebut:
 
+![WhatsApp Image 2024-10-27 at 11 16 35_7167fc7d](https://github.com/user-attachments/assets/047458d6-be05-4f9b-8b06-0f1f31c53397)
+
+Eksekusi program tersebut:
+
+<img width="960" alt="Screenshot 2024-10-27 111452" src="https://github.com/user-attachments/assets/6220640d-7fec-4e89-80aa-c6072a90548d">
+
+<img width="960" alt="Screenshot 2024-10-27 111503" src="https://github.com/user-attachments/assets/fdad7e89-76b0-449f-9c77-275658f10c1f">
+
+Dan flowchartnya
+
+
+
+
+
+
 
 
 
