@@ -163,6 +163,19 @@ Tidak wajib bayar pajak rumah
 
 - Pengecekan berkaluarga dan punya rumah: Variabel berkeluarga dan punya_rumah dicek dengan perbandingan input terhadap "Y menggunakan input().strip() == "Y", yang memastikan bahwa input diubah menjadi huruf kapital dan mengabaikan spasi yang tidak perlu.
 -  Program ini menggunakan if-else untuk menentukan pesan yang akan ditampilkan berdasarkan kondisi gaji status keluarga, dan status kepemilikan rumah.
+
+# LATIHAN 3
+# Pemesanan tiket bioskop
+
+Kasus 1: Program Pemesanan Tiket Bioskop Buat program yang menghitung harga tiket bioskop. Tiket reguler berharga Rp50.000, sedangkan tiket VIP berharga Rp100.000. Jika user memiliki kartu member, mereka mendapatkan diskon 20% dari harga tiket. Program ini harus meminta tipe tiket dan status member dari user, lalu menghitung total harga yang harus dibayar.
+
+Petunjuk:
+
+```PYTHON
+● Gunakan if else dan operator ternary.
+````
+
+
   
 
 
