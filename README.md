@@ -263,6 +263,14 @@ jika menginputkan selain (ya/tidak) output yang keluar "Harga tidak dapat dihitu
 
 Dan ini hasil program tersebut:
 
+![WhatsApp Image 2024-10-27 at 09 55 37_54ccffa2](https://github.com/user-attachments/assets/a91c2556-6b95-48cc-b232-10d9510358cf)
+
+Eksekusi dari program tersebut:
+
+![WhatsApp Image 2024-10-27 at 09 58 59_054d0348](https://github.com/user-attachments/assets/43313601-3328-423d-bee3-2d89dba7b733)
+
+
+
 
 
 
