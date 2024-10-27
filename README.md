@@ -164,6 +164,7 @@ Tidak wajib bayar pajak rumah
 - Pengecekan berkaluarga dan punya rumah: Variabel berkeluarga dan punya_rumah dicek dengan perbandingan input terhadap "Y menggunakan input().strip() == "Y", yang memastikan bahwa input diubah menjadi huruf kapital dan mengabaikan spasi yang tidak perlu.
 -  Program ini menggunakan if-else untuk menentukan pesan yang akan ditampilkan berdasarkan kondisi gaji status keluarga, dan status kepemilikan rumah.
 
+
 # LATIHAN 3
 # Pemesanan tiket bioskop
 
@@ -268,6 +269,29 @@ Dan ini hasil program tersebut:
 Eksekusi dari program tersebut:
 
 ![WhatsApp Image 2024-10-27 at 10 09 33_23097a02](https://github.com/user-attachments/assets/f793271a-4da4-4ab9-ae09-341f30641d00)
+
+Dan flowchartnya:
+
+
+
+# Kalkulator sederhana 
+# Kasus 2: Program Kalkulator Sederhana
+
+Buat program kalkulator yang menerima dua angka dan satu operator aritmatika dari pengguna (penjumlahan, pengurangan, perkalian, atau pembagian). Program akan menghitung hasil sesuai dengan operator yang dipilih.
+
+# Petunjuk: 
+
+```
+
+● Gunakan if elif else untuk menentukan operasi aritmatika.
+
+angka1 = float(input("Masukkan angka pertama: "))
+
+```
+
+
+
+
 
 
 
