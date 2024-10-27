@@ -77,6 +77,8 @@ print("Nilai Akhir :",akhir)
 print("\nNilai Huruf :",huruf)
 print("Keterangan :",keterangan)
 ```
+fungsi print() adalah mencetak variable-variable pada program tersebut
+
 Cara Menjalankan
 Pastikan Python telah terinstal di komputer Anda.
 Salin kode ke dalam file Python (misalnya, nilai_siswa.py).
