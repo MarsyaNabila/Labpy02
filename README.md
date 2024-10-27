@@ -166,6 +166,43 @@ Tidak wajib bayar pajak rumah
 - Pengecekan berkaluarga dan punya rumah: Variabel berkeluarga dan punya_rumah dicek dengan perbandingan input terhadap "Y menggunakan input().strip() == "Y", yang memastikan bahwa input diubah menjadi huruf kapital dan mengabaikan spasi yang tidak perlu.
 -  Program ini menggunakan if-else untuk menentukan pesan yang akan ditampilkan berdasarkan kondisi gaji status keluarga, dan status kepemilikan rumah.
 
+# Menggunakan kondisi OR dengan menginputkan 3 bilangan 
+
+```PYTHON
+
+a = int(input("Masukkan bilangan A: "))
+b = int(input("Masukkan bilangan B: "))
+c = int(input("Masukkan bilangan C: "))
+if a+b == c or b+c == a or c+a == b:
+    print("BENAR")
+else:
+    print("SALAH")
+
+```
+
+operator OR dalam python merubah beberapa kondisi dan mengembalikan true jika salah satu benar.
+
+```PYTHON
+
+a = int(input("Masukkan bilangan A: "))
+b = int(input("Masukkan bilangan B: "))
+c = int(input("Masukkan bilangan C: "))
+
+````
+
+Program ini menginputkan sesuatu integer yang menggunakan variable a,b,c.
+
+```PYTHON
+
+if a+b == c or b+c == a or c+a == b:
+    print("BENAR")
+else:
+    print("SALAH")
+
+````
+
+jika (A) ditambah (B) haslnya (C) atau bahasa pemograman itu OR ,dan apabila (B) ditambah (C) hasilnya (A),dan (C) ditambah (A) maka hasilnya (B). maka output yang keluar adalah "benar"
+
 
 # LATIHAN 3
 # Pemesanan tiket bioskop
@@ -373,6 +410,8 @@ Eksekusi program tersebut:
 
 
 Dan flowchartnya:
+
+![Screenshot 2024-10-27 153830](https://github.com/user-attachments/assets/3d99b859-6ac9-4b99-b360-b53c130d5248)
 
 
 
