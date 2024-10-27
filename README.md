@@ -274,6 +274,7 @@ Eksekusi dari program tersebut:
 
 Dan flowchartnya:
 
+![flowchart baru](https://github.com/user-attachments/assets/a9813385-5db2-4939-b591-8c18d9ca99a4)
 
 
 # Kalkulator sederhana 
