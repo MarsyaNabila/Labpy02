@@ -171,9 +171,11 @@ Kasus 1: Program Pemesanan Tiket Bioskop Buat program yang menghitung harga tike
 
 Petunjuk:
 
-```PYTHON
+```
+
 ● Gunakan if else dan operator ternary.
-````
+
+```
 
 
   
