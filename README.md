@@ -267,7 +267,9 @@ Dan ini hasil program tersebut:
 
 Eksekusi dari program tersebut:
 
-![WhatsApp Image 2024-10-27 at 09 58 59_054d0348](https://github.com/user-attachments/assets/43313601-3328-423d-bee3-2d89dba7b733)
+![WhatsApp Image 2024-10-27 at 10 07 34_d6077841](https://github.com/user-attachments/assets/879192a2-47d0-40a2-8c2b-ee6f368e100f)
+
+
 
 
 
