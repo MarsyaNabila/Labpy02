@@ -372,7 +372,8 @@ Eksekusi program tersebut:
 <img width="960" alt="Screenshot 2024-10-27 111452" src="https://github.com/user-attachments/assets/6220640d-7fec-4e89-80aa-c6072a90548d">
 
 
-Dan flowchartnya
+Dan flowchartnya:
+
 
 
 
